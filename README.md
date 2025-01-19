@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=c" alt="icon" width="60" height="60" />
+  <!-- <img src="https://skillicons.dev/icons?i=c" alt="icon" width="60" height="60" /> -->
   <!-- <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="60" height="60" /> -->
 </div>
 
