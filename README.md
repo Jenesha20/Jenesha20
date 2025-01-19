@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Jenesha Malar</h1>
 <h3 align="center">A Passionate AI & Data Science Enthusiast</h3>
 <p align="center">🚀 Tech Explorer | Aspiring Data Scientist | Innovating with AI and ML 💡</p>
-<p align="center"> 
+<!-- <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Jenesha20&label=Profile%20views&color=0e75b6&style=flat" alt="Jenesha20" /> 
-</p>
+</p> -->
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
